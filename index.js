@@ -58,7 +58,7 @@
 // ]
 
 // for (let i = 0; i < users.length; i++){
-//     if(users[i].status === true){
+//     if(users[i].status){
 //         console.log(users[i]);
 //     }
 // }
